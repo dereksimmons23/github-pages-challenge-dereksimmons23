@@ -1,2 +1,2 @@
-# github-pages-challenge-dereksimmons23
-Resume at flinthills.io
+# github.io for Derek Simmons
+CV
